@@ -10,7 +10,7 @@ const HomePage = () => {
         <main className="container">
           <section className="card2">
             <section className="txt1">
-              <img src="./Images/vck.png"></img>
+              <img src="./Images/vck.png" width={1500}></img>
               <h1 className="centered">
                 Welcome to Vivekanand<br/>
                 College!<br/>
